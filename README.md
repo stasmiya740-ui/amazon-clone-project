@@ -52,7 +52,7 @@ Contributions are welcome! Feel free to fork this repo and improve it.
 
 ## 📫 Contact
 
-* GitHub: 
+* GitHub: https://github.com/stasmiya740-ui
 * Email: syedatasmiya8421@gmail.com
 
 ---
